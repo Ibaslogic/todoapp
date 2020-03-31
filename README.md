@@ -6,11 +6,9 @@ Test this app:
 
 You can find all of the INITIAL code for the todos project here.
 
-#### From Chapter 1 to 3
-
-> For the **latest edition of the book** (will be out soon), you will find the updated code here:
+> In the **latest edition of the book** (out soon), you will find the updated code here:
 >
-> Then for the **React Hooks version of the code**, check here:
+> And for the **React Hooks version of the code**, which is part of the new edition, check here for the code:
 >
 > **If you bought the first edition of the book and you want the latest edition, buzz me on Twitter, [@ibaslogic](https://twitter.com/ibaslogic) or send a mail, ibas@ibaslogic.com to get it for FREE.**
 
